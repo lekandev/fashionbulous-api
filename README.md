@@ -1,2 +1,3 @@
-# fashionbulous-api
-API for fashionbuous implemented with strapi headless CMS
+# Strapi application
+
+A quick description of your strapi application
